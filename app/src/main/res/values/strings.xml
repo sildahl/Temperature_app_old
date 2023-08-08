@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Klima: kontor</string>
+    <string-array name="intervals_list">
+        <item>10 min</item>
+        <item>30 min</item>
+        <item>1 time</item>
+    </string-array>
+</resources>
